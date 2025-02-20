@@ -1,0 +1,6 @@
+/* Button.css */
+.custom-button:focus, .custom-button:active {
+    outline: none;
+    box-shadow: none;
+  }
+  

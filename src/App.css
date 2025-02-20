@@ -1,0 +1,17 @@
+/* For Webkit browsers like Chrome, Safari, Edge */
+::-webkit-scrollbar {
+  width: 4px; /* Thin scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: white; /* White thumb */
+  border-radius: 2px; /* Rounded edges */
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent; /* Transparent track */
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent; /* Transparent corner */
+}
